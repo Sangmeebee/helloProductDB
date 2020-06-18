@@ -1,0 +1,11 @@
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("맥북", "computer", 300, "Apple", 10, "16인치 MACBOOK PRO")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("삼성 노트북", "computer", 200, "Samsung", 20, "16인치 Samsung 노트북")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("LG 노트북", "computer", 150, "LG", 30, "16인치 LG 노트북")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("나이키 런닝화", "etc", 30, "Nike", 100, "신상 나이키 운동화")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("아디다스 런닝화", "etc", 20, "Adidas", 100, "신상 아디다스 운동화")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("퓨마 런닝화", "etc", 10, "Puma", 100, "신상 퓨마 운동화")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("삼성 TV", "homeappliances", 1000, "Samsung", 10, "OLED 삼성 TV")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("LG TV", "homeappliances", 800, "LG", 10, "OLED LG TV")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("삼성 냉장고", "homeappliances", 500, "Samsung", 10, "삼성 냉장고")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("LG 냉장고", "homeappliances", 400, "LG", 10, "LG 냉장고")
+
